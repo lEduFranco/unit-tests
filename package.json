@@ -1,0 +1,14 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/CalculadoraDiferente.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luiz Sá",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
